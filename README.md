@@ -1,10 +1,6 @@
-### Hi there 👋
+# Hi, I am Aakanksha Jaiswal! Thanks for visiting.
 
-<!--
-**aakanksha-j/aakanksha-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=aakanksha-j&show_icons=true&theme=github_dark"/>
 
-- 🔭 I’m currently working on creating projects to build a portfolio. 
-- 🌱 I’m currently learning various technologies needed to build personal projects such as Django Rest Framework, AWS and GCP, Flutter.
--->
+<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aakanksha-j&layout=compact"/>
